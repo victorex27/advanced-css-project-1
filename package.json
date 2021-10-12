@@ -1,0 +1,23 @@
+{
+  "name": "advanced-css-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorex27/advanced-css-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorex27/advanced-css-project-1/issues"
+  },
+  "homepage": "https://github.com/victorex27/advanced-css-project-1#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {}
+}
